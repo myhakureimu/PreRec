@@ -17,7 +17,7 @@ isExist = os.path.exists(folder)
 if not isExist:
     os.makedirs(folder)
 
-domain_list = ['in']#['es','jp','au','de','ca','mx','us','uk'] 
+domain_list = ['in','es','ca','au','mx','de']#['es','jp','au','de','ca','mx','us','uk'] 
 
 caterory_list = ['Arts_Crafts_and_Sewing',
                  'Automotive',

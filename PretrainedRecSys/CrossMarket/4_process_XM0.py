@@ -30,7 +30,7 @@ nlp_model = SentenceTransformer('sentence-transformers/stsb-xlm-r-multilingual')
 DIM = 768
 print('load finish')
 
-domain_list = ['in']#['jp']
+domain_list = ['in','es','ca','au','mx','de']
 
 caterory_list = [
                  'Arts_Crafts_and_Sewing',
