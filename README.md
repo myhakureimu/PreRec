@@ -11,3 +11,5 @@ python 4_process_XM0.py
 cd to ./PretrainedRecSys
 
 python exp_pretrain_zero.py
+
+TBD: revise
