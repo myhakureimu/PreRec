@@ -15,7 +15,7 @@ import os
 import time
 import pickle
 import datetime
-from utils import check_ratio, process_training, process_pop_k
+from process_utils import check_ratio, process_training, process_pop_k
 from sentence_transformers import SentenceTransformer
 
 import matplotlib.pyplot as plt
